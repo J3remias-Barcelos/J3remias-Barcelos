@@ -35,6 +35,4 @@ src="https://img.shields.io/github/followers/J3remias-Barcelos?logo=github&style
 
 <a href="http://www.github.com/J3remias-Barcelos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=J3remias-Barcelos&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/J3remias-Barcelos"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=J3remias-Barcelos&bg_color=22272e&color=ffffff&line=6366f1&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/J3remias-Barcelos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3remias-Barcelos&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

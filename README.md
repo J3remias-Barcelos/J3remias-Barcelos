@@ -49,14 +49,9 @@ Estou em buscar de me tornar um excelente profissional de Infra/DevOps - comecei
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/J3remias-Barcelos"> 
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=J3remias-Barcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/J3remias-Barcelos">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3remias-Barcelos&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+![J3remias-Barcelos's Stats](https://github-readme-stats.vercel.app/api?username=J3remias-Barcelos&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
+![J3remias-Barcelos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=J3remias-Barcelos&theme=blueberry&hide_border=false)
+![J3remias-Barcelos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J3remias-Barcelos&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
 <br>
 

@@ -15,8 +15,14 @@ Estou em buscar de me tornar um excelente profissional de Infra/DevOps - comecei
 ### Cloud
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,aws,gcp,terraform,ansible)](https://skillicons.dev)
 
-### S.O
+### S.O's & Shell
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,powershell,bash)](https://skillicons.dev)
 
+### Stack's já usadas:
+[![My Skills](https://skillicons.dev/icons?i=spring,react,express,nextjs,ts,tailwind,nestjs,prisma,vercel,vite,babel,figma,kafka,rabbitmq,nginx,gitlab,git,grafana,prometheus,heroku,jenkins,jquery,mysql,mongodb,regex)](https://skillicons.dev)
+
+### IDE's e Geren. de Pacotes
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,androidstudio,maven,npm,yarn,pnpm)](https://skillicons.dev)
 
 
 

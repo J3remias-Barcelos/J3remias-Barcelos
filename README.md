@@ -9,11 +9,11 @@ Estou em buscar de me tornar um excelente profissional de Infra/DevOps - comecei
 - 🧠  I'm learning Azure DevOps, Kubernetes, Terraform
   
 ### My Stack's
-#### Linguagens
+### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=js,java,go,kotlin,nodejs,html,css)](https://skillicons.dev)
 
-#### Cloud
-[![My Skills](https://skillicons.dev/icons?i=,kubernetes,docker,azure,aws,gcp,ansible,terraform)](https://skillicons.dev)
+### Cloud
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,aws,gcp,terraform,ansible)](https://skillicons.dev)
 
 ### S.O
 

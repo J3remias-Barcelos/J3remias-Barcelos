@@ -1,8 +1,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=31748f&text=Jeremy%20barcelos&section=header&textBg=true&fontColor=9ccfd8&animation=twinkling&reversal=false" />
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeremias Barcelos
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jeremias Barcelos
 
-## <h1 align="center"> DevOps Engineer | Developer Full Stack & Leader </h1>
+## <p align="center"> DevOps Engineer | Developer Full Stack & Leader </p>
 
 Estou em buscar de me tornar um excelente profissional de Infra/DevOps - comecei estudar programação com 15 anos, hoje estou cursando ADS - para lapidar e me direcionar para novos desafios.
 
@@ -10,7 +10,7 @@ Estou em buscar de me tornar um excelente profissional de Infra/DevOps - comecei
 - ✉️  You can contact me at [jeremiasbarceloa96@gmail.com](mailto:jeremiasbarceloa96@gmail.com)
 - 🧠  I'm learning Azure DevOps, Kubernetes, Terraform
   
-### My Stack's
+### <p align="center"> My Stack's </p>
 ### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=js,java,go,kotlin,nodejs,ts,html,css)](https://skillicons.dev)
 

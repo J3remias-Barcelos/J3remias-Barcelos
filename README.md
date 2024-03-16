@@ -27,6 +27,10 @@ Estou em buscar de me tornar um excelente profissional de Infra/DevOps - comecei
 
 
 ### Contatos - (Socials)
+<a href="https://www.linkedin.com/in/jeremias-barcelos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:jeremiasbarceloa96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
 
   <p align="left">
                       <a href="https://www.dev.to/j3remiasbarcelos" target="_blank" rel="noreferrer">
@@ -60,12 +64,12 @@ Estou em buscar de me tornar um excelente profissional de Infra/DevOps - comecei
 ## 🚀 GitHub Stats:
 
 <br>
-
+![J3remias-Barcelos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J3remias-Barcelos&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 ![J3remias-Barcelos's Stats](https://github-readme-stats.vercel.app/api?username=J3remias-Barcelos&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
 ![J3remias-Barcelos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=J3remias-Barcelos&theme=blueberry&hide_border=false)
-![J3remias-Barcelos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J3remias-Barcelos&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
-
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=J3remias-Barcelos&color=green&style=flat-square&label=Profile+Views)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9ccfd8&height=150&section=footer"/>
 

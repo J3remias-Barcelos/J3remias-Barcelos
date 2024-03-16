@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=170&color=31748f&text=Jeremy%20Barcelos&section=header&textBg=true&fontColor=9ccfd8&fontSize=46&animation=twinkling&reversal=false
+<img style="align=center" style="margin-bottom:100px" style="width=100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=31748f&text=Jeremy%20Barcelos&section=header&textBg=true&fontColor=9ccfd8&fontSize=46&animation=twinkling&reversal=false"/>
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeremias Barcelos
 

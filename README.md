@@ -75,4 +75,4 @@ Estou em buscar de me tornar um excelente profissional de Infra/DevOps - comecei
 
 ![Profile Views](https://komarev.com/ghpvc/?username=J3remias-Barcelos&color=green&style=flat-square&label=Profile+Views)
 
-https://capsule-render.vercel.app/api?type=waving&height=140&color=31748f&section=footer&textBg=false&animation=twinkling&reversal=false
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=31748f&section=footer&textBg=false&animation=twinkling&reversal=false"/>

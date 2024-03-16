@@ -64,9 +64,11 @@ Estou em buscar de me tornar um excelente profissional de Infra/DevOps - comecei
 ## 🚀 GitHub Stats:
 
 <br>
+
 ![J3remias-Barcelos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J3remias-Barcelos&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 ![J3remias-Barcelos's Stats](https://github-readme-stats.vercel.app/api?username=J3remias-Barcelos&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
 ![J3remias-Barcelos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=J3remias-Barcelos&theme=blueberry&hide_border=false)
+
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=J3remias-Barcelos&color=green&style=flat-square&label=Profile+Views)
